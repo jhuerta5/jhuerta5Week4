@@ -1,0 +1,28 @@
+html {
+	background-color: rgb(100,100,100);
+	width: 100%;
+	height: 100vh;
+}
+html body {
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-content: center;
+	background-color: rgb(254, 255, 209);
+	margin: 1%;
+	height: 95%;
+}
+.s1{
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-content: flex-start;
+	margin: 1%;
+}
+
+html body div div {
+	margin-bottom: 2px;
+}
+textarea {
+	font-size: 12pt;
+}
